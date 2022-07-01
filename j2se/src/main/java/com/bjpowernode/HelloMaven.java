@@ -8,7 +8,7 @@ public class HelloMaven {
 
     public static void main(String[] args) {
         HelloMaven h = new HelloMaven();
-        int res = h.addNumber(10, 30);
+        int res = h.addNumber(20, 30);
         System.out.println("res=" + res);
     }
 }
